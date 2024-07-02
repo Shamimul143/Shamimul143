@@ -1,10 +1,11 @@
+![web developer](https://i.ibb.co/hBmR0Vf/Md-Shamimul-Islam.png)
 ### Hi there 👋, I'm Md Shamimul Islam
 #### web developer
-![web developer](https://i.ibb.co/hBmR0Vf/Md-Shamimul-Islam.png)
+
 
 I am a front-end web developer specializing in crafting visually appealing and interactive user interfaces. Proficient in HTML, CSS, and JavaScript, I create responsive designs that work seamlessly across various devices and browsers. I have experience with modern frameworks and libraries like React, allowing me to build dynamic and high-performance web applications. My focus is on delivering an intuitive and engaging user experience through clean, efficient code and attention to detail.
 
-Skills:  REACT / JS / HTML / CSS
+Skills: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>] REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning Next.js 
 - 👯 I’m looking to collaborate on github 
